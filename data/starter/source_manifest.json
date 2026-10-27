@@ -1,0 +1,37 @@
+{
+  "seed": 20261022,
+  "generated_at": "fixed synthetic reference date; no external data",
+  "parameters": {
+    "merchants": 20,
+    "payment_orders": 100,
+    "payment_attempts": 110,
+    "settlement_batches": 10,
+    "bank_statement_lines": 20
+  },
+  "row_counts": {
+    "Merchant": 20,
+    "PaymentOrder": 100,
+    "PaymentAttempt": 110,
+    "ProcessorEvent": 112,
+    "SettlementBatch": 10,
+    "SettlementLine": 29,
+    "BankStatementLine": 20,
+    "ReconciliationMatch": 7,
+    "Exception": 14,
+    "Resolution": 14,
+    "GroundTruth": 18
+  },
+  "files": {
+    "BankStatementLine.csv": "ddf71f3b4685ee3aa3b5fdb1240a2b032ef97c3f26533efc77bf77a12e253eca",
+    "Exception.csv": "676fc4ec98fb3c45fdf420fa5f6c6380879c662fc777e818d315422eafba18a1",
+    "ground_truth.csv": "7cabf9b41e84d6c2365a5e816f97423e9b5626bcd4c8158244195d061a19ec6e",
+    "Merchant.csv": "d55f0c3008c1b12ec3dbe488241b641ece71bfe6620c3e352d9de2137eb3d47f",
+    "PaymentAttempt.csv": "b92fdac62ad6a6b54a11ef452a600f4b03ed95ee9e3191f143722ba6e042e396",
+    "PaymentOrder.csv": "facc1a1f40e30fc91c1c5c317ec978454ad3cc1e68eb8aba5052a52055dee540",
+    "ProcessorEvent.csv": "6feee056294d5c122da09d883d5897f7290b854e291822afca3b5318d9758d45",
+    "ReconciliationMatch.csv": "0fecc6b3e5d87ca365f9653040723c45574ca0a7f927b12b3e4b6a6f5a3487b5",
+    "Resolution.csv": "53396d7aaea9b13cd97c5815c7e32893fe6af19ac207114fbff616960f3f57d8",
+    "SettlementBatch.csv": "633d21742deb1a6472b960f54cda3545e2936886e30032fe2f1d73d96e11527f",
+    "SettlementLine.csv": "84628f35e92afb0e9e554b84aae353d27cde7f17230d1dacaf16018309ff7d4c"
+  }
+}

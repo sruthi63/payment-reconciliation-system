@@ -1,0 +1,19 @@
+record_type,record_id,issue_type,ground_truth,expected_reason
+BankStatementLine,BANK-2026-000001,bank_amount_differs_by_fee,exception_expected,bank_amount_differs_by_fee
+BankStatementLine,BANK-2026-000002,currency_mismatch,exception_expected,currency_mismatch
+BankStatementLine,BANK-2026-000003,unmatched_bank_record,exception_expected,unmatched_bank_record
+BankStatementLine,BANK-2026-000004,delayed_settlement,exception_expected,delayed_settlement
+BankStatementLine,BANK-2026-000011,unmatched_bank_record,exception_expected,No settlement reference
+BankStatementLine,BANK-2026-000012,unmatched_bank_record,exception_expected,No settlement reference
+BankStatementLine,BANK-2026-000013,unmatched_bank_record,exception_expected,No settlement reference
+BankStatementLine,BANK-2026-000014,unmatched_bank_record,exception_expected,No settlement reference
+BankStatementLine,BANK-2026-000015,unmatched_bank_record,exception_expected,No settlement reference
+BankStatementLine,BANK-2026-000016,unmatched_bank_record,exception_expected,No settlement reference
+BankStatementLine,BANK-2026-000017,unmatched_bank_record,exception_expected,No settlement reference
+BankStatementLine,BANK-2026-000018,unmatched_bank_record,exception_expected,No settlement reference
+BankStatementLine,BANK-2026-000019,unmatched_bank_record,exception_expected,No settlement reference
+BankStatementLine,BANK-2026-000020,unmatched_bank_record,exception_expected,No settlement reference
+SettlementLine,STL-SET-2026-000001-DUP,duplicate_settlement_line,exception_expected,Duplicate processor event in settlement lines
+ProcessorEvent,EVT-DUP-000000001,duplicate_webhook,idempotent_duplicate,Same idempotency key ingested twice
+ProcessorEvent,EVT-ANOM-REFUND-0001,refund_before_capture,exception_expected,Refund event timestamp precedes capture
+ProcessorEvent,EVT-MISSING-0001,silently_dropped_record,missing_record_expected,Expected processor event is absent from ingested events
