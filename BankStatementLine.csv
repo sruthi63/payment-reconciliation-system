@@ -1,0 +1,21 @@
+bank_line_id,bank_account,reference,amount,currency,booking_date,value_date,description,source_file
+BANK-2026-000001,OPERATING-001,SET-2026-000001,2307.09,EUR,2026-01-04,2026-01-04,Synthetic settlement credit,bank_statement_2026.csv
+BANK-2026-000002,OPERATING-001,SET-2026-000002,683.92,ZZZ,2026-01-05,2026-01-05,Synthetic settlement credit,bank_statement_2026.csv
+BANK-2026-000003,OPERATING-001,SET-2026-999999,2100.18,USD,2026-01-05,2026-01-05,Synthetic settlement credit,bank_statement_2026.csv
+BANK-2026-000004,OPERATING-001,SET-2026-000004,1095.75,EUR,2026-01-07,2026-01-07,Synthetic settlement credit,bank_statement_2026.csv
+BANK-2026-000005,OPERATING-001,SET-2026-000005,930.02,USD,2026-01-13,2026-01-13,Synthetic settlement credit,bank_statement_2026.csv
+BANK-2026-000006,OPERATING-001,SET-2026-000006,613.79,EUR,2026-01-08,2026-01-08,Synthetic settlement credit,bank_statement_2026.csv
+BANK-2026-000007,OPERATING-001,SET-2026-000007,1825.79,USD,2026-01-09,2026-01-09,Synthetic settlement credit,bank_statement_2026.csv
+BANK-2026-000008,OPERATING-001,SET-2026-000008,252.86,GBP,2026-01-16,2026-01-16,Synthetic settlement credit,bank_statement_2026.csv
+BANK-2026-000009,OPERATING-001,SET-2026-000009,2492.61,USD,2026-01-12,2026-01-12,Synthetic settlement credit,bank_statement_2026.csv
+BANK-2026-000010,OPERATING-001,SET-2026-000010,1320.76,EUR,2026-01-12,2026-01-12,Synthetic settlement credit,bank_statement_2026.csv
+BANK-2026-000011,OPERATING-001,BANK-REF-000011,5936.57,EUR,2026-07-24,,Unmatched incoming/outgoing movement,bank_statement_2026.csv
+BANK-2026-000012,OPERATING-001,BANK-REF-000012,7659.09,INR,2026-06-19,,Unmatched incoming/outgoing movement,bank_statement_2026.csv
+BANK-2026-000013,OPERATING-001,BANK-REF-000013,2103.64,EUR,2026-03-06,,Unmatched incoming/outgoing movement,bank_statement_2026.csv
+BANK-2026-000014,OPERATING-001,BANK-REF-000014,4278.35,EUR,2026-04-08,,Unmatched incoming/outgoing movement,bank_statement_2026.csv
+BANK-2026-000015,OPERATING-001,BANK-REF-000015,692.25,INR,2026-04-11,,Unmatched incoming/outgoing movement,bank_statement_2026.csv
+BANK-2026-000016,OPERATING-001,BANK-REF-000016,6621.11,INR,2026-01-28,,Unmatched incoming/outgoing movement,bank_statement_2026.csv
+BANK-2026-000017,OPERATING-001,BANK-REF-000017,4616.52,USD,2026-05-11,,Unmatched incoming/outgoing movement,bank_statement_2026.csv
+BANK-2026-000018,OPERATING-001,BANK-REF-000018,5949.00,USD,2026-05-24,,Unmatched incoming/outgoing movement,bank_statement_2026.csv
+BANK-2026-000019,OPERATING-001,BANK-REF-000019,8631.88,USD,2026-02-11,,Unmatched incoming/outgoing movement,bank_statement_2026.csv
+BANK-2026-000020,OPERATING-001,BANK-REF-000020,7913.37,USD,2026-03-10,,Unmatched incoming/outgoing movement,bank_statement_2026.csv

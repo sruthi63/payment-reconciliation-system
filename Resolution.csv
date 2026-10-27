@@ -1,0 +1,15 @@
+resolution_id,exception_id,resolution_action,resolution_note,resolved_by,resolved_at,outcome
+RES-0000001,EXC-0000001,pending_review,Expected processor event missing from ingestion; investigate source feed,,,pending
+RES-0000002,EXC-0000002,pending_review,Awaiting operations analyst review,,,pending
+RES-0000003,EXC-0000003,pending_review,Awaiting operations analyst review,,,pending
+RES-0000004,EXC-0000004,pending_review,Awaiting operations analyst review,,,pending
+RES-0000005,EXC-0000005,pending_review,Awaiting operations analyst review,,,pending
+RES-0000006,EXC-0000006,pending_review,Awaiting operations analyst review,,,pending
+RES-0000007,EXC-0000007,pending_review,Awaiting operations analyst review,,,pending
+RES-0000008,EXC-0000008,pending_review,Awaiting operations analyst review,,,pending
+RES-0000009,EXC-0000009,pending_review,Awaiting operations analyst review,,,pending
+RES-0000010,EXC-0000010,pending_review,Awaiting operations analyst review,,,pending
+RES-0000011,EXC-0000011,pending_review,Awaiting operations analyst review,,,pending
+RES-0000012,EXC-0000012,pending_review,Awaiting operations analyst review,,,pending
+RES-0000013,EXC-0000013,pending_review,Awaiting operations analyst review,,,pending
+RES-0000014,EXC-0000014,pending_review,Awaiting operations analyst review,,,pending
